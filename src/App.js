@@ -9,7 +9,7 @@ const tasks = [
     content: "Zrobić trening kolarski", done: true,
   },
   {
-    content: "Zjeść kurczaka z makaronem", done: false,
+    content: "Zjeść kurczaka z sosem ziołowym Winiary", done: false,
   },
 ];
 
