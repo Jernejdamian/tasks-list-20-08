@@ -1,0 +1,22 @@
+.section{
+    margin: 10px;
+    border: 1px solid #ddd;
+    background-color: white;
+}
+.section__header{
+    padding: 0px 10px 10px;
+    border-bottom: 1px solid #eee;
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    align-items: center;
+}
+.section__buttons{
+    border: none;
+    background-color: teal;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.section__header--button:disabled{
+    color: #b3b3b3;
+}
